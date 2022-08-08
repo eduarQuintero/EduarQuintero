@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/vdbrUjzrUEGly/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/26uf7WGUJLbiqIryo/giphy.gif" />
 
 ### Hi 🙋‍♂️,
 ### I'm a software engineering student and I love web development
