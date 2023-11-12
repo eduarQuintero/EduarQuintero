@@ -5,7 +5,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
 
 ### Hi 🙋‍♂️,
-### I'm a software engineering student and I love web development
+### I'm a informatic engineering student and I love web development
 #### Languages and Tools...
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60px">
